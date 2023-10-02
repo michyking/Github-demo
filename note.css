@@ -1,0 +1,114 @@
+/* HTML ELEMENTS */
+
+/* Nested HTML Elements
+Never Skip the End Tag */
+/* Empty HTML Elements (br, hr)
+HTML is Not Case Sensitive */
+
+HTML Attributes
+
+/* All HTML elements can have attributes
+Attributes provide additional information about elements
+Attributes are always specified in the start tag
+Attributes usually come in name/value pairs like: name="value" */
+
+/* The href attribute of <a> specifies the URL of the page the link goes to
+The src attribute of <img> specifies the path to the image to be displayed
+The width and height attributes of <img> provide size information for images
+The alt attribute of <img> provides an alternate text for an image
+The style attribute is used to add styles to an element, such as color, font, size, and more
+The lang attribute of the <html> tag declares the language of the Web page
+The title attribute defines some extra information about an element */
+
+
+HTML Headings
+
+/* Search engines use the headings to index the structure and content of your web pages.
+
+Users often skim a page by its headings. It is important to use headings to show the document structure.
+
+<h1> headings should be used for main headings, followed by <h2> headings, then the less important <h3>, and so on. */
+
+/* HTML Paragraphs */
+
+/* <pre>Element */
+
+
+
+/* HTML Block and Inline Elements */
+
+/* A block-level element always starts on a new line, and the browsers automatically add some space (a margin) before and after the element.
+
+A block-level element always takes up the full width available (stretches out to the left and right as far as it can).
+
+Two commonly used block elements are: <p> and <div>.
+
+The <p> element defines a paragraph in an HTML document.
+
+The <div> element defines a division or a section in an HTML document. */
+
+/* Here are the block-level elements in HTML: */
+
+/* <address> */
+/* <article> */
+/* <aside> */
+/* <blockquote> */
+/* <canvas> */
+/* <dd> */
+/* <div> */
+/* <dl> */
+/* <dt> */
+/* <fieldset> */
+/* figcaption> */
+/* <figure> */
+/* <footer> */
+/* <form> */
+/* <h1>-<h6> */
+/* <header> */
+/* <hr> */
+/* <li> */
+/* <main> */
+/* <nav> */
+/* <noscript> */
+/* <ol> */
+/* <p> */
+/* <pre> */
+/* <section> */
+/* <table> */
+/* <tfoot> */
+/* <ul> */
+/* <video> */
+
+/* Inline Elements */
+
+/* An inline element does not start on a new line.
+
+An inline element only takes up as much width as necessary. */
+
+/* Here are the inline elements in HTML:
+
+<a>
+<abbr>
+<acronym>
+<b>
+<bdo>
+<big>
+<br>
+<button>
+<cite>
+<code>
+<dfn>
+<em>
+<i><img>
+
+<input><kbd><label><map><object><output><q><samp><script><select><small><span><strong><sub><sup><textarea><time><tt><var> */
+
+
+/* HTML LIST TAGS  */
+
+/* <ul>	Defines an unordered list
+<ol>	Defines an ordered list
+<li>	Defines a list item
+<dl>	Defines a description list
+<dt>	Defines a term in a description list
+<dd>	Describes the term in a description list */
